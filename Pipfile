@@ -7,6 +7,10 @@ name = "pypi"
 requests = "*"
 python-dotenv = "*"
 streamlit = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
