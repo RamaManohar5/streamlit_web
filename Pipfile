@@ -6,11 +6,13 @@ name = "pypi"
 [packages]
 requests = "*"
 python-dotenv = "*"
-streamlit = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
 scikit-learn = "*"
+streamlit = "*"
+black = "*"
+autopep8 = "*"
 
 [dev-packages]
 
